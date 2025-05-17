@@ -23,5 +23,6 @@ CSS
 <br>
 JS
 
-<h2>Preview</h2>
+## Preview
+
 ![PropHub  GIF](./PropHub.gif)
