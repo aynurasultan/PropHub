@@ -24,4 +24,4 @@ CSS
 JS
 
 <h2>Preview</h2>
-# PropHub
+![PropHub  GIF](./PropHub.gif)
